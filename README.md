@@ -1,2 +1,10 @@
 # svelte-app
-Udemy crash course
+<hr>
+
+**Udemy crash course**
+
+1. Install dependencies and templates
+2. Create svelte-app
+3. Create tests for app
+4. Run app on local machine
+5. more...
