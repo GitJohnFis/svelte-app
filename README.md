@@ -15,49 +15,24 @@
 
 This project is currently a work in progress. Stay tuned for updates!
 
+<svg xmlns="http://www.w3.org/2000/svg" height="80">
+    <style src="./style.css" >
+        .title {
+          transition: fill .3s ease;
+          <!-- cursor: works in github not in preview mode -->
+          cursor: pointer;
+          font-family: Helvetica, sans-serif;
+          border-radius: 5px 5px 5px 5px;
+          fill:#2c1300;
+          text-anchor: middle;
+          dominant-baseline: middle;
+          font-size: 24px;
+        }
 
-You can add some HTML (actually XHTML) and CSS inside a <foreignObject> tag inside of an svg file and then embed that inside of an <img> tag in your GitHub README.
+    </style>
 
-This is a simple animation in CSS that changes the color of the h1 text:
-
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-<h1>Hello world!</h1>
-Full page
-You can embed the style and HTML into a <foreignObject> tag inside of an svg like so:
-
-example.svg
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
+    <g class="title">
+        <rect rx="5" width="100%" height="80"></rect>
+        <text x="50%" y="50%" width="" font-weight="bold" fill="yellow" >TypeScript Course</text>
+    </g>
 </svg>
