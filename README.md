@@ -14,8 +14,3 @@
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="128" style="text-align: center;" />
 
 This project is currently a work in progress. Stay tuned for updates!
-
-
-        <text x="50%" y="50%" width="" font-weight="bold" fill="yellow" >TypeScript Course</text>
-    </g>
-</svg>
