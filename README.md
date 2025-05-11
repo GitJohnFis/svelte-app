@@ -11,6 +11,6 @@
 
 # 🚧 Under Construction 🚧
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="128" />
 
 This project is currently a work in progress. Stay tuned for updates!
