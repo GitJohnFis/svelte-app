@@ -8,3 +8,9 @@
 3. Create tests for app
 4. Run app on local machine
 5. more...
+
+# 🚧 Under Construction 🚧
+
+![Under Construction](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+This project is currently a work in progress. Stay tuned for updates!
